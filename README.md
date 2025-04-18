@@ -1,6 +1,6 @@
 # 🧪 Laboratório: Criação de Máquina Virtual no Microsoft Azure
 
-Este repositório documenta o processo de criação e configuração de uma máquina virtual (VM) no Microsoft Azure, com o objetivo de praticar e consolidar conhecimentos sobre a plataforma. Aqui, você encontrará resumos, anotações, dicas e capturas de tela que podem servir como material de apoio para estudos e futuras implementações.
+Este repositório documenta o processo de criação e configuração de uma máquina virtual (VM) no Microsoft Azure, com o objetivo de praticar e consolidar conhecimentos sobre a plataforma.
 
 ## 📋 Sumário
 
