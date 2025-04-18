@@ -15,9 +15,7 @@ Este repositório documenta o processo de criação e configuração de uma máq
   - [6. Revisar e Criar](#6-revisar-e-criar)
   - [7. Conectar-se à VM via RDP](#7-conectar-se-à-vm-via-rdp)
   - [8. Instalar o Servidor Web IIS (Opcional)](#8-instalar-o-servidor-web-iis-opcional)
-- [💡 Dicas e Observações](#-dicas-e-observações)
-- [🖼️ Capturas de Tela](#-capturas-de-tela)
-- [📚 Referências](#-referências)
+
 
 ## 🎯 Objetivo
 
